@@ -55,5 +55,21 @@ footer {
     bottom: 0;
     width: 100%;
 }
+/* Existing CSS rules */
+
+/* Add other styles as needed */
+
+/* Media Queries */
+@media screen and (max-width: 600px) {
+    /* Styles for screens smaller than 600px */
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for screens between 601px and 1024px */
+}
+
+@media screen and (min-width: 1025px) {
+    /* Styles for screens larger than 1024px */
+}
 
 /* Add other styles as needed */
